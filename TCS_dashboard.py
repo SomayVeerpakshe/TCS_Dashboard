@@ -5,6 +5,9 @@ import streamlit as st
 # Gathering data from TCS
 import TCS_stock as tcs
 
+# Set the page config
+st.set_page_config(page_title="TCS Dashboard", layout="wide")
+
 # Getting Close prices data of TCS, Moving Average of 200 days & 50 days 
 i = "TCS.NS"
 # --------------------Caching the data------------------
@@ -80,8 +83,7 @@ cagr_revenue = cagr(starting_revenue,ending_revenue,4)
 # Building the Streamlit Dashboard
 # -------------- Streamlit App ----------------
 
-# Set the page config
-st.set_page_config(page_title="TCS Dashboard", layout="wide")
+
 
 # Set the title and header
 st.title("TCS Dashboard stock data from 2021 to 2025")
