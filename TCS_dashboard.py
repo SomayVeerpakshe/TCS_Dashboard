@@ -27,7 +27,7 @@ def get_indicators(indicator):
 
 @st.cache_data
 def get_fundamentals():
-    return tcs.get_valuation()
+    return tcs.valuation()
 
 #-------------------Fetching the data-------------------
 
