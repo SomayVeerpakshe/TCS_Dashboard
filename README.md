@@ -10,6 +10,11 @@ This project demonstrates my ability to collect, clean, and visualize financial 
 - Interactive filters (date range, frequency, indicators)
 - Built with Streamlit for a simple and clean UI
 
+  ## 📸 Demo
+⚠️ Since `yfinance` has request limits, the live app may not always work.  
+Instead, here are screenshots of the dashboard:
+<img width="1858" height="692" alt="Screenshot 2025-05-08 214126" src="https://github.com/user-attachments/assets/cafceb47-ba91-4544-8c71-e8d9213a830b" />
+
 ## 🛠 Tech Stack
 - Python
 - Streamlit
@@ -22,8 +27,9 @@ This project demonstrates my ability to collect, clean, and visualize financial 
 - Integrate alternative APIs (Alpha Vantage, Polygon.io)
 - Deploy using Streamlit Cloud or Hugging Face Spaces
 
-  ## 📸 Demo
-⚠️ Since `yfinance` has request limits, the live app may not always work.  
-Instead, here are screenshots of the dashboard:
-<img width="1858" height="692" alt="Screenshot 2025-05-08 214126" src="https://github.com/user-attachments/assets/cafceb47-ba91-4544-8c71-e8d9213a830b" />
 
+## 👤 Author
+**Somay Veerpakshe**  
+- [Portfolio](https://somayveerpakshe.github.io/)  
+- [LinkedIn](https://www.linkedin.com/in/somay-veerpakshe/)  
+- [GitHub](https://github.com/SomayVeerpakshe) 
